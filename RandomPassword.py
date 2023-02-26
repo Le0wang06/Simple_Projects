@@ -1,3 +1,3 @@
 import random
 
-characters = "abcd"
+characters = "abcdefghijkl"
