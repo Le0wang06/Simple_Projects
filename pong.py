@@ -8,7 +8,10 @@ win.tracer(0)
 
 #paddle one
 paddle_1 = turtle.Turtle()
-paddle_1 .speed(0)
+paddle_1.tracer(0)
+paddle_1.shape("square")
+paddle_1.color("white")
+
 #paddle two
 
 #the ball
