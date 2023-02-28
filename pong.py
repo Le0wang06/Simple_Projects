@@ -14,8 +14,11 @@ paddle_1.tracer(0)
 paddle_1.shape("square")
 paddle_1.color("white")
 
+paddle_1.shapesize(stretch_wid=5,stretch_len=1)
+
 paddle_1.penup()
 paddle_1.goto(-350,0)
+
 #paddle two
 
 #the ball
