@@ -1,3 +1,5 @@
+#Credits: freeCodeCamp.org
+
 import turtle
 
 win = turtle.Screen()
@@ -12,6 +14,8 @@ paddle_1.tracer(0)
 paddle_1.shape("square")
 paddle_1.color("white")
 
+paddle_1.penup()
+paddle_1.goto(-350,0)
 #paddle two
 
 #the ball
