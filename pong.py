@@ -7,7 +7,8 @@ win.tracer(0)
 
 
 #paddle one
-
+paddle_1 = turtle.Turtle()
+paddle_1 .speed(0)
 #paddle two
 
 #the ball
