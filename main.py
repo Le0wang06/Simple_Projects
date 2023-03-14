@@ -1,1 +1,1 @@
-import RandomPassword
+import RockPaperScissor
