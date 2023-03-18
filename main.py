@@ -1,1 +1,1 @@
-import RockPaperScissor
+import first_game
